@@ -5,7 +5,7 @@ import java.util.List;
 /**功能：返回商品列表,要返回一个EasyUIDateGrid支持的数据格式
  *@author:张晓芬
  *@date:2018年2月13日  下午10:47:58
-**/
+**/ 
 public class EasyUIDateGridResult {
 	//定义分页参数，page，rows
 	private long total;
